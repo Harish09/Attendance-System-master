@@ -20,7 +20,7 @@
   		android:id="@+id/USN"
   		android:layout_width="fill_parent"
   		android:layout_height="wrap_content"
-  		android:hint="USN"
+  		android:hint="Roll Number"
   		android:layout_gravity="center"
   		/>
    <EditText 
