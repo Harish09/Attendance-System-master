@@ -16,7 +16,7 @@
         android:icon="@drawable/icon"
         android:label="@string/app_name" >
         <activity
-            android:name="com.ayaan.AyaanActivity"
+            android:name="com.ayaan.HomeActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

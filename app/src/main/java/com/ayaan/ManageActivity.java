@@ -19,7 +19,7 @@ public class ManageActivity extends ListActivity {
 	public EditText sname;
 	public EditText susn;
 	public EditText phone;
-	public String Sccode = AyaanActivity.fccode;
+	public String Sccode = HomeActivity.fccode;
 	public String ssname;
 	public ListAdapter adapter;
 	public String ssusn;

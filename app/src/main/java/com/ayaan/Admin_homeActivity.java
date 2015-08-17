@@ -27,7 +27,7 @@ public class Admin_homeActivity extends Activity {
 
 	 public void log_out(View v)
 	 {
-		 Intent i=new Intent(this,AyaanActivity.class);
+		 Intent i=new Intent(this,HomeActivity.class);
 		 finish();
          startActivity(i);
 	 }

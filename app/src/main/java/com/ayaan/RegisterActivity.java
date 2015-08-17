@@ -89,7 +89,7 @@ public class RegisterActivity extends Activity {
 					
 			}
      }
-		Intent i=new Intent(this,AyaanActivity.class);
+		Intent i=new Intent(this,HomeActivity.class);
 		finish();
         startActivity(i);
    }

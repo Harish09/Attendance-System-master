@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
-public class AyaanActivity extends Activity {
+public class HomeActivity extends Activity {
 	public EditText fcode;
 	public EditText fpass;
 	public static String fccode;

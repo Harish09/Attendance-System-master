@@ -16,7 +16,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 public class AttendanceActivity extends ListActivity {
-	public String Sccode = AyaanActivity.fccode;
+	public String Sccode = HomeActivity.fccode;
 	public String[] usn;
 	public int[] sid;
 	public int[] missed;

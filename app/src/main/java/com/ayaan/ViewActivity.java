@@ -8,7 +8,7 @@ import android.widget.SimpleCursorAdapter;
 import android.widget.TextView;
 
 public class ViewActivity extends ListActivity {
-	public String Sccode = AyaanActivity.fccode;
+	public String Sccode = HomeActivity.fccode;
 	DBAdapter db;
 	Cursor c,c1;
 	public ListAdapter adapter;

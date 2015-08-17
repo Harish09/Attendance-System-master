@@ -40,7 +40,7 @@ ADDED from AndroidManifest.xml:10:5
 		ADDED from AndroidManifest.xml:10:48
 	android:icon
 		ADDED from AndroidManifest.xml:10:18
-activity#com.ayaan.AyaanActivity
+activity#com.ayaan.HomeActivity
 ADDED from AndroidManifest.xml:11:9
 	android:label
 		ADDED from AndroidManifest.xml:12:19
